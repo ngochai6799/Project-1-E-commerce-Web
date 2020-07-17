@@ -1,10 +1,12 @@
-#Báo cáo cuối kì bộ môn: đồ án lập trình. 
-Mã học phần: IT3914
+# Báo cáo cuối kì bộ môn: đồ án lập trình. 
 
-Sinh viên thực hiện: Cao Phạm Ngọc Hải
+*Mã học phần: IT3914*
+
+*Sinh viên thực hiện: Cao Phạm Ngọc Hải*
+
 MSSV: 20173825
 
-##Lập trình trang web thương mại điện tử
+## Lập trình trang web thương mại điện tử
 
 1. Mục tiêu
 
@@ -29,7 +31,7 @@ Hướng dẫn sử dụng angular cli: [Angular CLI](https://cli.angular.io/)
 4. Hướng dẫn sử dụng
 
 - Kết nối với database, bật kết nối với server: 
-	+ Truy cập vào file helpers.js trong src/backend/config
+	+ Mở file helpers.js trong src/backend/config
 	+ Sửa các thông tin: host, user, password theo cài đặt cá nhân khi cài MySQL. Ví dụ:
 		[database](media/database.png)
  
