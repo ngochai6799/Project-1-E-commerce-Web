@@ -32,17 +32,16 @@ Hướng dẫn sử dụng angular cli: [Angular CLI](https://cli.angular.io/)
 
 - Kết nối với database, bật kết nối với server: 
 	+ Mở file helpers.js trong src/backend/config
-	+ Sửa các thông tin: host, user, password theo cài đặt cá nhân khi cài MySQL. Ví dụ:
+	+ Sửa các thông tin: host, user, password theo cài đặt cá nhân khi cài MySQL. Ảnh minh họa:
 		[database](media/database.png)
  
 			 
 	+ Tại thư mục src/backend, mở command prompt và chạy lệnh
-`npm start`
-	Kết quả hiển thị như hình là thành công.
+`npm start`. Kết quả hiển thị như hình là thành công.
 		[server](media/server-running.png)
 
 - Truy cập vào trang chủ của website 
-	+ Mở thư mục src/frontend bằng terminal của Visual Studio Code, chạy lệnh `ng serve` 
+	+ Mở thư mục src/frontend bằng terminal của Visual Studio Code, chạy lệnh `ng serve`.
 	+ Mở browser truy cập vào đường dẫn http://localhost:4200
 	Kết quả hiển thị như hình dưới đây là thành công.
 		[client](media/website-running.png)
